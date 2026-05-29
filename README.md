@@ -5,4 +5,4 @@ Projects
 
 Personal Webpage  
 Repository: https://github.com/kernelaklees/personal-webpage  
-Live Demo: https://kernelaklees.github.io/personal-webpage
+Live Demo: https://kernelaklees.github.io/Personal-Webpage/
