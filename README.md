@@ -1,7 +1,7 @@
 Hi, I'm Daniela (kernelaklees).  
 Welcome to my GitHub profile. Here I collect my projects, exercises and live demos created during my learning journey.
 
-##Projects 
+## Projects 
 
 **Personal Webpage**  
 **Live Demo:**
