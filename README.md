@@ -1,16 +1,29 @@
 Hi, I'm Daniela (kernelaklees).  
 Welcome to my GitHub profile. Here I collect my projects, exercises and live demos created during my learning journey.
 
-## Projects 
+# Projects 
 
-**Personal Webpage**  
-**Live Demo:**
+## 🌐 Personal Webpage
+### 🔗 Live Demo
 https://kernelaklees.github.io/Personal-Webpage/  
-**Repository:** 
+### 📦 Repository
 https://github.com/kernelaklees/personal-webpage  
 
-**Webframe**  
-**Live Demo:**
+<br><br>
+
+## 🖼️ Webframe
+### 🔗 Live Demo
 https://kernelaklees.github.io/Webframe/  
-**Repository:**
+### 📦 Repository
 https://github.com/kernelaklees/webframe
+
+<br><br>
+
+## 🎄 Javascriptmas Day 3 – Santa’s Emoji Hack
+### 🔗 Live Demo
+https://kernelaklees.github.io/Javascriptmas-day-3-santa-s-emoji-/
+### 📦 Repository
+https://github.com/KernelaKlees/Javascriptmas-day-3-santa-s-emoji-hack
+
+<br><br>
+
