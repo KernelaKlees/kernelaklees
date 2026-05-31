@@ -19,6 +19,16 @@ https://github.com/kernelaklees/webframe
 
 <br><br>
 
+# JavaScriptmas Scrimba 2024
+
+## 🎄 Javascriptmas Day 1 - Grandpa’s Gift List
+### 🔗 Live Demo
+https://kernelaklees.github.io/Javascriptmas-Day-1---Grandpa-s-Gift-List-/
+### 📦 Repository
+https://github.com/KernelaKlees/Javascriptmas-Day-1---Grandpa-s-Gift-List-
+
+<br><br>
+
 ## 🎄 Javascriptmas Day 3 – Santa’s Emoji Hack
 ### 🔗 Live Demo
 https://kernelaklees.github.io/Javascriptmas-day-3-santa-s-emoji-/
