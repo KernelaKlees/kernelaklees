@@ -29,6 +29,15 @@ https://github.com/KernelaKlees/Javascriptmas-Day-1---Grandpa-s-Gift-List-
 
 <br><br>
 
+## 🎄 Javascriptmas Day 2 – Ugly Advent Calendar
+### 🔗 Live Demo  
+https://kernelaklees.github.io/Javascriptmas-Day-2---Ugly-Advent-Calendar/
+### 📦 Repository  
+https://github.com/KernelaKlees/Javascriptmas-Day-2---Ugly-Advent-Calendar
+
+<br><br>
+
+
 ## 🎄 Javascriptmas Day 3 – Santa’s Emoji Hack
 ### 🔗 Live Demo
 https://kernelaklees.github.io/Javascriptmas-day-3-santa-s-emoji-/
