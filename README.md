@@ -70,6 +70,12 @@ https://github.com/KernelaKlees/Javascriptmas-day-3-santa-s-emoji-hack
 
 <br><br>
 
+### 🔍 Google Homepage Clone (Scrimba Exercise)
+#### 🔗 Live Demo
+https://kernelaklees.github.io/Google-Homepage-Clone-Scrimba-Exercise-/
+#### 📦 Repository
+https://github.com/KernelaKlees/Google-Homepage-Clone-Scrimba-Exercise-
+
 
 
 
