@@ -76,6 +76,19 @@ https://kernelaklees.github.io/Google-Homepage-Clone-Scrimba-Exercise-/
 #### 📦 Repository
 https://github.com/KernelaKlees/Google-Homepage-Clone-Scrimba-Exercise-
 
+<br><br>
+
+### 🌐 Personal Website (Scrimba Exercise)
+#### 🔗 Live Demo  
+https://kernelaklees.github.io/Personal-Website-Scrimba-Exercise/
+
+#### 📦 Repository  
+https://github.com/KernelaKlees/Personal-Website-Scrimba-Exercise
+
+<br><br>
+
+
+
 
 
 
