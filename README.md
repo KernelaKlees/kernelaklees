@@ -15,6 +15,14 @@ https://github.com/KernelaKlees/Solo-Project-Haringey/tree/main
 
 <br><br>
 
+### 🎁 Birthday Gift Site – Scrimba Exercise
+#### 🔗 Live Demo  
+https://kernelaklees.github.io/Birthday-Gift-Site-Scrimba/
+#### 📦 Repository
+https://github.com/KernelaKlees/Birthday-Gift-Site-Scrimba
+### 🧪 CodePen Version  
+https://codepen.io/Kernela/pen/xxvzZKz
+
 ### 🌐 Passenger Counter App  
 #### 🔗 **Live Demo**  
 https://kernelaklees.github.io/Passenger-Counter-App/
@@ -75,15 +83,18 @@ https://github.com/KernelaKlees/Javascriptmas-day-3-santa-s-emoji-hack
 https://kernelaklees.github.io/Google-Homepage-Clone-Scrimba-Exercise-/
 #### 📦 Repository
 https://github.com/KernelaKlees/Google-Homepage-Clone-Scrimba-Exercise-
+### 🧪 CodePen Version  
+https://codepen.io/Kernela/pen/bGXJqGw
 
 <br><br>
 
 ### 🌐 Personal Website (Scrimba Exercise)
 #### 🔗 Live Demo  
 https://kernelaklees.github.io/Personal-Website-Scrimba-Exercise/
-
 #### 📦 Repository  
 https://github.com/KernelaKlees/Personal-Website-Scrimba-Exercise
+### 🧪 CodePen Version  
+https://codepen.io/Kernela/pen/rNXQeQv
 
 <br><br>
 
