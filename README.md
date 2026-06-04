@@ -112,13 +112,11 @@ https://codepen.io/Kernela/pen/bGXJqGw
 
 <br><br>
 
-### 🌐 Personal Website (Scrimba Exercise)
+### 🌐 Firstwebsite (Scrimba Exercise)
 #### 🔗 Live Demo  
-https://kernelaklees.github.io/Personal-Website-Scrimba-Exercise/
+https://kernelaklees.github.io/firstwebsite/
 #### 📦 Repository  
-https://github.com/KernelaKlees/Personal-Website-Scrimba-Exercise
-### 🧪 CodePen Version  
-https://codepen.io/Kernela/pen/rNXQeQv
+https://github.com/KernelaKlees/firstwebsite
 
 <br><br>
 
