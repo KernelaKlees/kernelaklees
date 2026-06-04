@@ -144,8 +144,11 @@ https://github.com/KernelaKlees/Product-Landing-Page-Handmade-Soap
 
 <br><br>
 
-
-
+### 🌐 Café Menu
+#### 🔗 Live Demo
+https://kernelaklees.github.io/Learn-Basic-CSS-by-Building-a-Cafe-Menu/
+#### 📦 Repository
+https://github.com/KernelaKlees/Learn-Basic-CSS-by-Building-a-Cafe-Menu
 
 <br><br>
 
