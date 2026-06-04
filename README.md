@@ -126,6 +126,13 @@ https://kernelaklees.github.io/Tribute-Page-Eckart-Tolle/
 #### 📦 Repository
 https://github.com/KernelaKlees/Tribute-Page-Eckart-Tolle
 
+<br><br>
+
+### Product Landing Page 
+#### 🔗 Live Demo
+https://kernelaklees.github.io/Product-Landing-Page-Handmade-Soap/
+#### 📦 Repository
+https://github.com/KernelaKlees/Product-Landing-Page-Handmade-Soap
 
 
 
