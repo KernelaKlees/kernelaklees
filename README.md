@@ -152,6 +152,12 @@ https://github.com/KernelaKlees/Learn-Basic-CSS-by-Building-a-Cafe-Menu
 
 <br><br>
 
+### 🌐 Colored Markers
+#### 🔗 Live Demo
+https://kernelaklees.github.io/Set-of-Colored-Markers/
+#### 📦 Repository
+https://github.com/KernelaKlees/Set-of-Colored-Markers
+
 
 
 
