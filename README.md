@@ -38,6 +38,13 @@ https://github.com/KernelaKlees/Passenger-Counter-App/tree/main
 
 <br><br>
 
+### 🚀 Let's Go to Space! – Scrimba Exercise
+#### 🔗 Live Demo 
+https://kernelaklees.github.io/Let-s-go-to-space-/
+#### 📦 Repository  
+https://github.com/KernelaKlees/Let-s-go-to-space-
+
+<br><br>
 
 ## 📌 Single Projects & Misc Exercises
 ### 🌐 Personal Webpage
