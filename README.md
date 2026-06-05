@@ -200,12 +200,12 @@ https://github.com/KernelaKlees/Building-a-Quiz/tree/main
 
 <br><br>
 
-### 🌐 Building a Quiz  
+### 🌐 Balance Sheet  
 #### 🔗 Live Demo  
-https://kernelaklees.github.io/Building-a-Quiz/
-
+https://kernelaklees.github.io/A-Balance-Sheet/
 #### 📦 Repository  
-https://github.com/KernelaKlees/Building-a-Quiz/tree/main
+https://github.com/KernelaKlees/A-Balance-Sheet
+
 
 <br><br>
 
