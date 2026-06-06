@@ -206,11 +206,13 @@ https://kernelaklees.github.io/A-Balance-Sheet/
 #### 📦 Repository  
 https://github.com/KernelaKlees/A-Balance-Sheet
 
-
 <br><br>
 
-
-
+### 🎨 Cat Painting
+#### 🔗 Live Demo 
+https://kernelaklees.github.io/Cat-Painting/
+#### 📦 Repository  
+https://github.com/KernelaKlees/Cat-Painting
 
 
 
