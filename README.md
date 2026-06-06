@@ -249,6 +249,12 @@ https://github.com/KernelaKlees/Magazine
 
 <br><br>
 
+### 🎡 Ferris Wheel
+#### 🔗 Live Demo
+🔗 https://kernelaklees.github.io/Ferris-Wheel/
+#### 📦  Repository
+🔗 https://github.com/kernelaklees/ferris-wheel
+
 <br><br>
 
 <br><br>
