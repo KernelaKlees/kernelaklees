@@ -38,7 +38,7 @@ https://github.com/KernelaKlees/Passenger-Counter-App/tree/main
 
 <br><br>
 
-### 🚀 Let's Go to Space! – Scrimba Exercise
+### 🚀 Let's Go to Space! 
 #### 🔗 Live Demo 
 https://kernelaklees.github.io/Let-s-go-to-space-/
 #### 📦 Repository  
@@ -46,7 +46,7 @@ https://github.com/KernelaKlees/Let-s-go-to-space-
 
 <br><br>
 
-### Mindfulness Survey Form – freeCodeCamp
+### 🧘‍♀️ Mindfulness Survey Form 
 #### 🔗 Live Demo (GitHub Pages)
 https://kernelaklees.github.io/Survey-form-Mindfulness/
 #### 📦 Repository
@@ -57,6 +57,7 @@ https://codepen.io/Kernela/full/oNQKozM
 <br><br>
 
 ## 📌 Single Projects & Misc Exercises
+
 ### 🌐 Personal Webpage
 #### 🔗 Live Demo
 https://kernelaklees.github.io/Personal-Webpage/  
@@ -102,7 +103,7 @@ https://github.com/KernelaKlees/Javascriptmas-day-3-santa-s-emoji-hack
 
 <br><br>
 
-### 🔍 Google Homepage Clone (Scrimba Exercise)
+### 🔍 Google Homepage Clone 
 #### 🔗 Live Demo
 https://kernelaklees.github.io/Google-Homepage-Clone-Scrimba-Exercise-/
 #### 📦 Repository
@@ -112,7 +113,7 @@ https://codepen.io/Kernela/pen/bGXJqGw
 
 <br><br>
 
-### 🌐 Personal Website (Scrimba Exercise)
+### 🌐 Personal Website 
 #### 🔗 Live Demo  
 https://kernelaklees.github.io/firstwebsite/
 #### 📦 Repository  
