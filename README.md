@@ -137,7 +137,7 @@ https://github.com/KernelaKlees/Learn-HTML-by-Building-a-Cat-Photo-App
 
 <br><br>
 
-### Product Landing Page 
+### Product Landing Page - Handmade Soap
 #### 🔗 Live Demo
 https://kernelaklees.github.io/Product-Landing-Page-Handmade-Soap/
 #### 📦 Repository
