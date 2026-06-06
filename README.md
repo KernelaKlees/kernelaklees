@@ -224,7 +224,7 @@ https://github.com/KernelaKlees/Piano
 
 <br><br>
 
-### 📘 Piano
+### 📘 Technical Documentation Page
 #### 🔗 Live Demo 
 https://kernelaklees.github.io/Technical-Documentation-Page/
 #### 📦 Repository  
