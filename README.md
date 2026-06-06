@@ -257,8 +257,17 @@ https://github.com/kernelaklees/ferris-wheel
 
 <br><br>
 
-<br><br>
+### 🐧 Penguin
+#### 🔗 Live Demo
+https://kernelaklees.github.io/Penguin/
+#### 📦  Repository
+https://github.com/KernelaKlees/Penguin
 
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 
 
 
