@@ -240,6 +240,12 @@ https://github.com/KernelaKlees/City-Skyline
 
 <br><br>
 
+### 📰 Magazine
+#### 🔗 Live Demo 
+https://kernelaklees.github.io/Magazine/
+#### 📦 Repository  
+https://github.com/KernelaKlees/Magazine
+
 <br><br>
 
 <br><br>
