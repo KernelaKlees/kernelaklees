@@ -280,7 +280,20 @@ https://kernelaklees.github.io/Greeting-Bot/
 https://github.com/KernelaKlees/Greeting-Bot/tree/main
 
 <br><br>
+
+### 🧠 Trivia Bot
+#### 🔗 Live Demo
+https://kernelaklees.github.io/Trivia-Bot/
+#### 📦  Repository
+https://github.com/KernelaKlees/Trivia-Bot
+
 <br><br>
+<br><br>
+
+<br><br>
+
+<br><br>
+
 <br><br>
 
 
